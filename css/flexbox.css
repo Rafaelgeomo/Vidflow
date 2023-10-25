@@ -96,7 +96,7 @@
   grid-area: 1 / 1 / 3 / 2;
 } 
 
-@media (min-width: 834px) {
+@media (min-width: 738px) {
   /* MENU LATERAL*/
 
   .menu__container {
