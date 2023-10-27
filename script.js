@@ -67,3 +67,5 @@ function filtarPorCategoria(filtro) {
 }
 
 
+
+
